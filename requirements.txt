@@ -1,0 +1,11 @@
+streamlit==1.28.2
+spacy==3.7.2
+sentence-transformers==2.2.2
+pdfplumber==0.10.3
+python-docx==1.0.0
+PyPDF2==3.0.1
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.0
+plotly==5.18.0
+python-dotenv==1.0.0
