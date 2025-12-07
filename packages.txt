@@ -1,0 +1,4 @@
+# packages.txt
+# System-level dependencies for Streamlit Cloud deployment
+# This app doesn't require any system packages
+# All dependencies are Python packages in requirements.txt
