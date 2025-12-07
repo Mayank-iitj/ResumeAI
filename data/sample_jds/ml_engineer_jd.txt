@@ -1,0 +1,51 @@
+Machine Learning Engineer
+
+Company: TechCorp AI Solutions
+Location: San Francisco, CA
+Job Type: Full-time
+
+About the Role:
+We are seeking an experienced Machine Learning Engineer to join our AI research team. You will work on cutting-edge ML projects, develop production-ready models, and collaborate with cross-functional teams.
+
+Requirements:
+• 3+ years of experience in machine learning and data science
+• Strong programming skills in Python and experience with ML frameworks
+• Expertise in TensorFlow, PyTorch, or similar deep learning frameworks
+• Proficiency in data manipulation libraries: Pandas, NumPy, Scikit-learn
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Knowledge of MLOps practices and tools (Docker, Kubernetes, MLflow)
+• Strong understanding of statistical methods and algorithms
+• Experience with NLP, computer vision, or reinforcement learning
+• Excellent problem-solving and analytical skills
+• Strong communication and teamwork abilities
+
+Preferred Qualifications:
+• M.S. or Ph.D. in Computer Science, Statistics, or related field
+• Experience with distributed computing (Spark, Dask)
+• Publications in top-tier ML conferences (NeurIPS, ICML, CVPR)
+• Contributions to open-source ML projects
+• Experience with SQL and NoSQL databases
+• Knowledge of software engineering best practices
+• Familiarity with A/B testing and experimentation frameworks
+
+Responsibilities:
+• Design, develop, and deploy machine learning models at scale
+• Conduct research and experiments to improve model performance
+• Collaborate with data engineers to build robust data pipelines
+• Optimize models for production environments
+• Monitor and maintain deployed models
+• Mentor junior engineers and contribute to technical documentation
+• Stay current with latest ML research and industry trends
+
+Technologies We Use:
+Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, AWS, Docker, Kubernetes, Git, Jupyter, MLflow, Airflow, PostgreSQL, MongoDB
+
+What We Offer:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible work arrangements and remote options
+• Professional development budget
+• State-of-the-art ML infrastructure
+• Collaborative and innovative work environment
+
+Apply now to join our team and work on impactful AI projects!

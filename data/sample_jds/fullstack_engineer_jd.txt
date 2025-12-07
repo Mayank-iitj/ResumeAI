@@ -1,0 +1,48 @@
+Senior Software Engineer - Full Stack
+
+Company: WebTech Innovations
+Location: New York, NY (Hybrid)
+Job Type: Full-time
+
+Job Description:
+We're looking for a talented Senior Software Engineer to join our engineering team. You'll build scalable web applications, lead technical initiatives, and mentor junior developers.
+
+Requirements:
+• 5+ years of software development experience
+• Strong proficiency in JavaScript/TypeScript and modern frameworks
+• Experience with React, Node.js, and Express
+• Solid understanding of RESTful APIs and microservices architecture
+• Proficiency in SQL and NoSQL databases (PostgreSQL, MongoDB)
+• Experience with cloud platforms (AWS or Azure)
+• Knowledge of containerization (Docker) and orchestration (Kubernetes)
+• Familiarity with CI/CD pipelines and DevOps practices
+• Strong problem-solving skills and attention to detail
+• Excellent communication and collaboration abilities
+
+Preferred Skills:
+• Experience with Next.js, Vue.js, or Angular
+• Knowledge of GraphQL
+• Experience with Redis, Elasticsearch
+• Understanding of security best practices
+• Experience with testing frameworks (Jest, Cypress)
+• Contributions to open-source projects
+• Bachelor's degree in Computer Science or equivalent
+
+Responsibilities:
+• Design and implement scalable web applications
+• Write clean, maintainable, and well-tested code
+• Participate in code reviews and architectural discussions
+• Mentor junior engineers and promote best practices
+• Collaborate with product and design teams
+• Optimize application performance and user experience
+• Troubleshoot and resolve production issues
+
+Tech Stack:
+JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, Git, Jenkins, Jest
+
+Benefits:
+• Competitive compensation
+• Health and wellness benefits
+• Flexible working hours
+• Learning and development opportunities
+• Modern tech stack and tools

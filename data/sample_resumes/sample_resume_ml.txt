@@ -1,0 +1,90 @@
+RAJESH KUMAR
+Senior Machine Learning Engineer
+
+Email: rajesh.kumar@email.com
+Phone: +91-9876543210
+LinkedIn: linkedin.com/in/rajeshkumar
+GitHub: github.com/rajeshkumar
+Location: Bangalore, India
+
+PROFESSIONAL SUMMARY
+Results-driven ML Engineer with 5+ years of experience in developing and deploying production-grade machine learning models. Expertise in deep learning, NLP, and computer vision. Proven track record of improving model accuracy by 40% and reducing inference time by 60%.
+
+SKILLS
+Programming Languages: Python, Java, C++, SQL
+ML/DL Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost
+Data Science: Pandas, NumPy, Matplotlib, Seaborn, SciPy
+Cloud & DevOps: AWS (SageMaker, EC2, S3), Docker, Kubernetes, MLflow
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Jupyter, Airflow, Jenkins, JIRA
+Specializations: Natural Language Processing, Computer Vision, Time Series Analysis
+
+PROFESSIONAL EXPERIENCE
+
+Senior Machine Learning Engineer
+TechVision AI Solutions, Bangalore
+June 2021 - Present
+• Designed and deployed 15+ ML models serving 10M+ daily requests with 99.9% uptime
+• Led team of 4 engineers in developing recommendation system that increased user engagement by 35%
+• Implemented MLOps pipeline reducing model deployment time from 2 weeks to 2 days
+• Optimized deep learning models achieving 60% reduction in inference latency
+• Collaborated with cross-functional teams to integrate ML features into production applications
+• Mentored junior engineers and conducted ML workshops for 50+ team members
+
+Machine Learning Engineer
+DataCorp Analytics, Hyderabad
+July 2019 - May 2021
+• Developed NLP models for sentiment analysis achieving 92% accuracy on production data
+• Built computer vision system for object detection with mAP score of 0.85
+• Created automated data pipelines processing 500GB daily data using Apache Spark
+• Improved existing models' performance by 40% through hyperparameter optimization
+• Implemented A/B testing framework for model evaluation and validation
+
+Data Scientist Intern
+AI Innovations Lab, Mumbai
+January 2019 - June 2019
+• Conducted exploratory data analysis on datasets with 10M+ records
+• Developed predictive models for customer churn with 88% accuracy
+• Created interactive dashboards using Tableau for stakeholder presentations
+
+EDUCATION
+
+Master of Technology in Computer Science
+Indian Institute of Technology (IIT) Bombay
+2017 - 2019 | CGPA: 9.2/10
+Focus: Machine Learning, Artificial Intelligence
+
+Bachelor of Technology in Computer Engineering
+National Institute of Technology (NIT) Warangal
+2013 - 2017 | CGPA: 8.8/10
+
+PROJECTS
+
+Real-time Object Detection System
+• Developed YOLOv5-based system for real-time object detection in video streams
+• Achieved 45 FPS on edge devices with 90% accuracy
+• Technologies: PyTorch, OpenCV, Flask, Docker
+
+Multilingual Text Classification
+• Built transformer-based model supporting 10 Indian languages
+• Achieved F1-score of 0.91 across all languages
+• Technologies: BERT, Hugging Face, TensorFlow
+
+Time Series Forecasting Platform
+• Created end-to-end platform for sales forecasting using LSTM and Prophet
+• Reduced MAPE from 25% to 12% compared to baseline
+• Technologies: Python, Pandas, Prophet, Streamlit
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty (2022)
+• TensorFlow Developer Certificate (2021)
+• Deep Learning Specialization - Coursera (2020)
+
+PUBLICATIONS
+• "Efficient NLP Models for Low-Resource Languages" - ACL 2022
+• "Scalable Object Detection in Edge Computing" - CVPR Workshop 2021
+
+ACHIEVEMENTS
+• Winner, National AI Hackathon 2021 (Team of 3, competed against 200+ teams)
+• Published 5 research papers in top ML conferences
+• Contributed to 10+ open-source ML projects on GitHub
