@@ -1,6 +1,9 @@
 """
 Scorer Module
 ATS scoring and job description matching using TF-IDF, embeddings, and keyword analysis
+
+Created by: MAYANK SHARMA
+Website: https://mayankiitj.vercel.app
 """
 import re
 from typing import Dict, List, Tuple

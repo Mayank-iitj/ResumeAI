@@ -1,5 +1,7 @@
 # 🎯 Resume Analyzer CLI - Production-Ready ATS Tool
 
+**Created by [MAYANK SHARMA](https://mayankiitj.vercel.app)**
+
 A powerful, Python-only Resume Analyzer that parses resumes, extracts structured data, scores ATS compatibility (95%+), and ranks candidates using ML models—no external APIs required.
 
 ## 🚀 Features
@@ -168,6 +170,16 @@ resume-analyzer-cli/
 ## 📝 License
 
 MIT License - Free for personal and commercial use
+
+## 👨‍💻 Author
+
+**MAYANK SHARMA**  
+🌐 Portfolio: [https://mayankiitj.vercel.app](https://mayankiitj.vercel.app)  
+💼 GitHub: [@Mayank-iitj](https://github.com/Mayank-iitj)
+
+---
+
+**Made with ❤️ by [MAYANK SHARMA](https://mayankiitj.vercel.app)**
 
 ---
 

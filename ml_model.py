@@ -1,6 +1,9 @@
 """
 Machine Learning Model for Resume Analysis
 Train and use ML models for improved resume scoring and classification
+
+Created by: MAYANK SHARMA
+Website: https://mayankiitj.vercel.app
 """
 import os
 import pickle

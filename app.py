@@ -1,6 +1,9 @@
 """
 Resume Analyzer - Streamlit Web Application
 Production-ready web interface for resume analysis and ATS scoring
+
+Created by: MAYANK SHARMA
+Website: https://mayankiitj.vercel.app
 """
 import streamlit as st
 import pandas as pd
@@ -592,6 +595,8 @@ def main():
     # Header
     st.markdown('<h1 class="main-header">📄 Resume Analyzer Pro</h1>', unsafe_allow_html=True)
     st.markdown("### AI-Powered ATS Scoring & Resume Optimization Platform")
+    st.markdown("*Created by [MAYANK SHARMA](https://mayankiitj.vercel.app)*")
+    st.markdown("---")
     
     # Sidebar
     with st.sidebar:
@@ -628,6 +633,19 @@ def main():
         ✅ Batch processing  
         ✅ Candidate ranking  
         ✅ Export reports (CSV/JSON)  
+        """)
+        
+        st.markdown("---")
+        st.markdown("## 👨‍💻 Created By")
+        st.markdown("""
+        **MAYANK SHARMA**
+        
+        🌐 [Portfolio](https://mayankiitj.vercel.app)  
+        💼 [GitHub](https://github.com/Mayank-iitj)
+        
+        ---
+        
+        Made with ❤️ by [MAYANK SHARMA](https://mayankiitj.vercel.app)
         """)
     
     # Main tabs

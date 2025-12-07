@@ -2,6 +2,9 @@
 """
 Resume Analyzer CLI - Main Entry Point
 Production-ready ATS resume analyzer and scorer
+
+Created by: MAYANK SHARMA
+Website: https://mayankiitj.vercel.app
 """
 import argparse
 import sys

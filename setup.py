@@ -1,5 +1,7 @@
 """
 Setup script for Resume Analyzer CLI
+Created by: MAYANK SHARMA
+Website: https://mayankiitj.vercel.app
 """
 from setuptools import setup, find_packages
 
@@ -12,11 +14,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="resume-analyzer-cli",
     version="1.0.0",
-    author="Resume Analyzer Team",
+    author="MAYANK SHARMA",
+    author_email="202410104+Mayank-iitj@users.noreply.github.com",
     description="Production-ready CLI tool for resume analysis and ATS scoring",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/resume-analyzer-cli",
+    url="https://github.com/Mayank-iitj/ResumeAI",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
